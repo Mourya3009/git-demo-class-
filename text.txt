@@ -1,0 +1,4 @@
+hello all!
+
+
+This is a git class
